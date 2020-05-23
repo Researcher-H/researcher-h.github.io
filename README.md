@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Researcher H Pages
 
 You can use the [editor on GitHub](https://github.com/Researcher-H/researcher-h.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
